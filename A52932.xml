@@ -1,0 +1,1017 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new list of fifty two ships gone to the East-Indies, in less than two years, with above two millions of bullion : and of fifty ships that went in seven years, from December 1690, to 1697 With a list of twenty six ships belonging to the Old East-India Company; with their tonns, guns, men, and cargoo's [sic]: also an account of ten ships arrived from East-India and China, since the 20th. of May last, with above five hundred thousand pieces of wrought goods ; and of three ships which arrived since the 20th. of January, which have brought in above one hundred thousand pieces of wrought silks, stuffs, and calico's, and not one pound of raw silk. With remarks and queries thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52932</idno>
+            <idno type="STC">Wing N653A</idno>
+            <idno type="STC">ESTC R216473</idno>
+            <idno type="EEBO-CITATION">99828204</idno>
+            <idno type="PROQUEST">99828204</idno>
+            <idno type="VID">32631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1856:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new list of fifty two ships gone to the East-Indies, in less than two years, with above two millions of bullion : and of fifty ships that went in seven years, from December 1690, to 1697 With a list of twenty six ships belonging to the Old East-India Company; with their tonns, guns, men, and cargoo's [sic]: also an account of ten ships arrived from East-India and China, since the 20th. of May last, with above five hundred thousand pieces of wrought goods ; and of three ships which arrived since the 20th. of January, which have brought in above one hundred thousand pieces of wrought silks, stuffs, and calico's, and not one pound of raw silk. With remarks and queries thereupon.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Docket title: A new list of fifty two ships sent to the East-Indies, in less than two years, with above two millions. With several other lists ans accounts : with remarks and queries thereupon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shipping --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:32631:1"/>
+            <head>A <hi>New LIST</hi> of <hi>Fifty two</hi> SHIPS gone to the <hi>Eaſt-Indies,</hi> in leſs than <hi>Two Years,</hi> with above <hi>Two Millions</hi> of <hi>Bullion</hi>: And of <hi>Fifty</hi> SHIPS that went in Seven Years, from <hi>December</hi> 1690, to 1697.</head>
+            <head type="sub">With <hi>A LIST</hi> of <hi>Twenty ſix</hi> SHIPS belonging to the <hi>Old Eaſt-India Company</hi>; with their <hi>Tonns, Guns, Men,</hi> and <hi>Cargoo's</hi>: Alſo an Account of <hi>Ten</hi> SHIPS arrived from <hi>Eaſt-India</hi> and <hi>China,</hi> ſince the 20th. of <hi>May</hi> laſt, with above Five hundred thouſand Pieces of <hi>Wrought Goods</hi>; And of <hi>Three</hi> SHIPS which arrived ſince the 20th. of <hi>January,</hi> which have brought in above One hundred thouſand Pieces of <hi>Wrought Silks, Stuffs,</hi> and <hi>Calico's,</hi> and not <hi>One Pound</hi> of <hi>Raw Silk.</hi> With <hi>REMARKS</hi> and <hi>Q<g ref="char:V">Ʋ</g>ERIES</hi> thereupon.</head>
+            <div type="list_of_ships">
+               <head>A LIST of 52 <hi>Engliſh</hi> Ships that Sailed bound to <hi>Eaſt-India</hi> and <hi>China,</hi> ſince the 10th. of <hi>Frbruary,</hi> 1697.</head>
+               <list>
+                  <head>Note, <hi>O ſtands for Old, N for New Company, and P for Private Traders.</hi>
+                  </head>
+                  <item>February 10 O Martha 625 Tonns for <hi>Coaſt</hi> and <hi>Bay</hi>
+                  </item>
+                  <item>February 10 O Anna 350 Tonns for <hi>Bay</hi>
+                  </item>
+                  <item>February 10 O Fame 420 Tonns for <hi>Coaſt and Bay</hi>
+                  </item>
+                  <item>March 4 P Riſing Eagle 240 Tonns for <hi>China</hi>
+                  </item>
+                  <item>March 6 O Thorndon 500 Tonns for <hi>Coaſt and Bay</hi>
+                  </item>
+                  <item>March 23 P Will. &amp; Rich. 220 Tonns for <hi>Borneo</hi>
+                  </item>
+                  <item>April 8 1698 O Thomas 380 Tonns for <hi>Surat &amp; Bombay</hi>
+                  </item>
+                  <item>May 3 1698 P Mary 300 Tonns for <hi>Surat</hi>
+                  </item>
+                  <item>May 9 1698 O Mary 350 Tonns for <hi>Bombay</hi>
+                  </item>
+                  <item>May 15 1698 O Ruſſel 330 Tonns for ditto</item>
+                  <item>Auguſt 4 1698 P Shrewsb. Galley 180 Tonns for <hi>Surrat</hi>
+                  </item>
+                  <item>Auguſt 16 1698 P Buckhurſt 300 Tonns for <hi>Muſcat</hi>
+                  </item>
+                  <item>Septemb. 12 1698 O Northumberl. 250 Tonns for <hi>Bombay</hi>
+                  </item>
+                  <item>Novemb. 10 1698 O Fleet Frigate 280 Tonns for <hi>China</hi>
+                  </item>
+                  <item>Novemb. 30 1698 O Benjamin 450 Tonns for <hi>Fort St. George</hi>
+                  </item>
+                  <item>Novemb. 30 1698 O Joſiah 400 Tonns for <hi>Bay of Bengall</hi>
+                  </item>
+                  <item>Decemb. 3 1698 O Sidney 500 Tonns for ditto</item>
+                  <item>Decemb. 3 1698 O Gracedew 300 Tonns for ditto</item>
+                  <item>January 1 1698 O Neptune 275 Tonns for <hi>Fort St. George</hi>
+                  </item>
+                  <item>January 1 1698 N London 400 Tonns for <hi>Coaſt and Bay</hi>
+                  </item>
+                  <item>January 1 1698 O Armenia Merch. 220 Tonns for <hi>Helena</hi>
+                  </item>
+                  <item>January 25 1698 N Antelope 468 Tonns for <hi>Bay of Bengall</hi>
+                  </item>
+                  <item>February 19 1698 O Eaſt-Ind. Merch. 450 Tonns for ditto</item>
+                  <item>February 19 1698 O Sceptre 300 Tonns for <hi>Fort St. George</hi>
+                  </item>
+                  <item>March 1 1698 N Degraves 520 Tonns for <hi>Coaſt and Bay</hi>
+                  </item>
+                  <item>March 1 1698 N Macclesfeild Gal. 280 Tonns for <hi>China</hi>
+                  </item>
+                  <item>April 1 1699 O Bedford 750 Tonns for <hi>Surrat</hi>
+                  </item>
+                  <item>April 1 1699 O Hampſhire 400 Tonns for ditto</item>
+                  <item>April 8 1699 N Mountague 416 Tonns for ditto</item>
+                  <item>April 25 1699 O Ruby 450 Tonns for <hi>Perſia &amp; Bomb.</hi>
+                  </item>
+                  <item>April 25 1699 N Julian 260 Tonns for <hi>Borneo</hi>
+                  </item>
+                  <item>May 7 1699 N Norris 520 Tonns for <hi>Surrat</hi>
+                  </item>
+                  <item>May 10 1699 O Frederick 350 Tonns for ditto</item>
+                  <item>Auguſt 16 1699 O Loyal Merchant 400 Tonns for <hi>Bombay</hi>
+                  </item>
+                  <item>Auguſt 16 1699 N Rook Galley 250 Tonns for <hi>Surrat</hi>
+                  </item>
+                  <item>October 10 1699 N Trumball Galley 300 Tonns for <hi>Borneo &amp; China</hi>
+                  </item>
+                  <item>October 18 1699 P Herne 200 Tonns for <hi>India</hi>
+                  </item>
+                  <item>Novemb. 9 1699 P Gosfright 300 Tonns for <hi>India</hi>
+                  </item>
+                  <item>Novemb. 22 1699 O Dorrell 240 Tonns for <hi>China</hi>
+                  </item>
+                  <item>Novemb. 22 1699 O Wentworth 350 Tonns for ditto</item>
+                  <item>Novemb. 30 1699 O King William' 600 Tonns for <hi>Fort St. George</hi>
+                  </item>
+                  <item>Novemb. 30 1699 O Chambers Frig. 350 Tonns for <hi>Bengall</hi>
+                  </item>
+                  <item>Novemb. 30 1699 O Madderas 250 Tonns for <hi>Bencols</hi>
+                  </item>
+                  <item>Decemb. 15 1699 N Eaton 340 Tonns for <hi>China</hi>
+                  </item>
+                  <item>Decemb. 15 1699 O Howland 400 Tonns for <hi>India</hi>
+                  </item>
+                  <item>Decemb. 15 1699 O Fame 420 Tonns for <hi>India</hi>
+                  </item>
+                  <item>Decemb. 15 1699 N Tankervill 430 Tonns for <hi>Coaſt and Bay</hi>
+                  </item>
+                  <item>Decemb. 15 1699 N Summers 480 Tonns for ditto</item>
+                  <item>Decemb. 15 1699 N Panther 350 Tonns for <hi>Borneo</hi>
+                  </item>
+                  <item>Decemb. 15 1699 N Limpoy 150 Tonns to ſtay in <hi>India</hi>
+                  </item>
+                  <item>Decemb. 15 1699 O Colcheſter 400 Tonns for <hi>India</hi>
+                  </item>
+                  <item>Decemb. 15 1699 N Canterbury 320 Tonns for <hi>Surrat</hi>
+                  </item>
+               </list>
+               <p>Sailed from <hi>Portſmouth,</hi> 1698. January 22 <hi>Harwich, Angleſey, Haſtings, and Lenox, Four of His Majeſty's Ships of War.</hi>
+               </p>
+            </div>
+            <div type="list_of_ships">
+               <list>
+                  <head>A LIST of 50 Ships which were ſent to the <hi>Eaſt-Indies</hi> in Seven Years, from <hi>December</hi> 1690, to <hi>December</hi> 1697, of which but 45 Returned. Note, <hi>Where this [†] Mark is placed, the Ship did not return</hi>
+                  </head>
+                  <item>April 21 1691 Dorothy Capt. Thawaites</item>
+                  <item>Novemb. 10 1691 Little Joſiah Capt. Deario</item>
+                  <item>February l6 1691 Samuel Capt. Treak</item>
+                  <item>March 16 1691 Charles the Second Capt. Dorill</item>
+                  <item>March 16 1691 Sampſon Capt. Brumell</item>
+                  <item>March 16 1691 Berkley Caſtle Capt. Hide</item>
+                  <item>March 16 1691 † Modena Capt. Wildey</item>
+                  <item>March 16 1691 Elizabeth Capt. Bremguin</item>
+                  <item>May 12 1692 Reſolution Capt. Sharpe</item>
+                  <item>April 30 1693 America Merchant Capt. Newman</item>
+                  <item>April 30 1693 Princ. Ann of Den. Capt. Blewit</item>
+                  <item>April 30 1693 James and Mary Capt. Buck</item>
+                  <item>April 30 1693 Hawk Capt. Cawliere</item>
+                  <item>May 23 1693 Defence Capt. Foſter</item>
+                  <item>May 23 1693 Seymour Capt. Gifford</item>
+                  <item>May 23 1693 Reſolution Capt. Roberts</item>
+                  <item>May 23 1693 † Henry Capt. Hudſon</item>
+                  <item>Auguſt 11 1693 Succeſs Capt. Junifer</item>
+                  <item>February 15 1693 Mary Capt. Iſles</item>
+                  <item>February 15 1693 Naſſaw Capt. Lloyd</item>
+                  <item>February 15 1693 Dorothy Capt. Trenwith</item>
+                  <item>February 15 1693 London Frigate Capt. Hatton</item>
+                  <item>February 15 1693 Thomas Capt. Pye</item>
+                  <item>February 15 1693 Amity Capt. Twines</item>
+                  <item>February 15 1693 Martha Capt. Raines</item>
+                  <item>July 22 1694 † Moco Merchant Capt. Edgecomb</item>
+                  <item>July 22 1694 Benjamin Capt. Brown</item>
+                  <item>July 22 1694 Tonqueen Capt. Keeble.</item>
+                  <item>March 24 1695 Fleet Frigate Capt. Merry</item>
+                  <item>March 24 1695 America Capt. Laycock</item>
+                  <item>March 24 1695 King William Capt. Thwaits</item>
+                  <item>April 16 1695 Ruſſel Capt. Blundall</item>
+                  <item>Decemb. 8 1695 Dorill Capt. Hide</item>
+                  <item>Decemb. 8 1695 Chambers Frigate Capt. South</item>
+                  <item>Decemb. 8 1695 Charles the Second Capt. Dorill</item>
+                  <item>Decemb. 8 1695 Sceptre Capt. Penny</item>
+                  <item>Decemb. 8 1695 Antilope Capt. Hammond</item>
+                  <item>April 6 1696 Maynard Capt. Hill</item>
+                  <item>April 6 1696 Sampſon Capt. Earle</item>
+                  <item>May 9 1696 Sedgewick Capt. Donrick</item>
+                  <item>July 10 1696 Eaſt-India Merchant Capt. Clark</item>
+                  <item>July 10 1696 Maderas Capt. Pickman</item>
+                  <item>July 10 1696 Sidney Capt. Gifford</item>
+                  <item>July 10 1696 Amity Capt. Heath</item>
+                  <item>July 10 1696 Taviſtock Capt. Jones</item>
+                  <item>July 10 1696 † Dorothy Capt. Trenwith</item>
+                  <item>July 10 1696 † Bedford Capt. Hudſon</item>
+                  <item>Auguſt 4 1696 Naſſaw Capt. Mentee</item>
+                  <item>Novemb. 23 1696 Trumball Capt. Daffild</item>
+                  <item>Novemb. 23 1696 Duke of Gloceſter Capt. Gennifor</item>
+               </list>
+               <p>
+                  <hi>Note,</hi> That in Two Years laſt paſt there are more Ships ſent out than in Seven Years before.</p>
+            </div>
+            <div type="account_of_exports">
+               <head>An Account of ſeveral ſorts of <hi>Woollen Cloths</hi> Exported to <hi>India</hi> from the Port of <hi>London,</hi> in Two Years laſt paſt, as appears by His Majeſty's Books kept in the <hi>Searchers-Office.</hi> From the 31 <hi>December</hi> 1697, to the 31 <hi>December</hi> 1699.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">Long Cloths.</cell>
+                        <cell role="label">Spaniſh Cloths.</cell>
+                        <cell role="label">Double Dozens.</cell>
+                        <cell role="label">Cloth Raſhes.</cell>
+                        <cell role="label">Pounds weight.</cell>
+                        <cell role="label">Total Pieces.</cell>
+                        <cell role="label">Total Value.</cell>
+                     </row>
+                     <row>
+                        <cell>1698</cell>
+                        <cell>1702</cell>
+                        <cell>10</cell>
+                        <cell> </cell>
+                        <cell>111</cell>
+                        <cell>26</cell>
+                        <cell>1833</cell>
+                        <cell>18336</cell>
+                     </row>
+                     <row>
+                        <cell>1699</cell>
+                        <cell>3196</cell>
+                        <cell>114</cell>
+                        <cell>11</cell>
+                        <cell>500</cell>
+                        <cell>1508</cell>
+                        <cell>3821</cell>
+                        <cell>38535</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4898</cell>
+                        <cell>124</cell>
+                        <cell>11</cell>
+                        <cell>611</cell>
+                        <cell>1534</cell>
+                        <cell>5654</cell>
+                        <cell>56851</cell>
+                     </row>
+                  </table>
+               </p>
+               <list>
+                  <item>The <hi>Cargoes</hi> of the 26 Ships comes to <hi>One Million</hi> one hundred fourteen thouſand nine hundred and thirty three Pounds,—1,114,933</item>
+                  <item>The <hi>Cargoes</hi> carried out by <hi>Captains ſuper Cargoes,</hi> and Ships Company in Private Trade, is above a Tenth part as much as the whole: But ſuppoſe they were no more than a Tenth, they come to—111,993</item>
+                  <item>Total <hi>Cargoes</hi> of 26 Ships amounts to—1,226,426</item>
+                  <item>
+                     <hi>Note,</hi> If 26 Ships carries out <hi>One Millon</hi> two hundred twenty ſix thouſand four hundred and twenty ſix Pounds, then 52 Ships muſt carry out <hi>Two Millions</hi> four hundred fifty two thouſand eight hundred fifty two Pounds, by the Rule of Pro<g ref="char:EOLhyphen"/>Proportion,—2,452,852</item>
+               </list>
+               <p>Of this not one Fortieth part conſiſts of our <hi>Woollen Cloth,</hi> as appears by the <hi>Cuſtom-Houſe</hi> Account; and what <hi>Cloth</hi> they ſend does more Prejudice to the <hi>Turkey Trade,</hi> than Service to the Kingdom, as by a Memorial lately delivered to the <hi>King</hi> and <hi>Council of Trade,</hi> by the <hi>Turkey</hi> Merchant, does evidently appear.</p>
+               <list>
+                  <item>
+                     <hi>Note,</hi> That according to the uſual account of <hi>Sales</hi> by the Candle, the Goods amount to <hi>Treble</hi> the firſt Coſt; if ſo, the whole <hi>Cargoes</hi> brought in will come to <hi>Sever Millions</hi> three hundred eighty eight thouſand five hundred fifty ſix Pounds 7,388556</item>
+                  <item>Theſe ſold by the Wholeſale Buyer to the Retailers, allowing 10 <hi>per Cent.</hi> Profit to ſuch Wholeſale Buyer, comes to—738855</item>
+                  <item>Total Value in the Retailers Hands—8,127411</item>
+               </list>
+               <p>Of this, by the beſt Information we can at preſent get upon the ſtricteſt Inquiry, find, That of this <hi>prodigious Cargoe,</hi> there will not be above One fourth part reſtrained by the intended Prohibition, which will in a great meaſure be made good again by the much greater vend of <hi>Raw Silk,</hi> and other Materials, and by greater quantities of White Callicoes which will be Dyed, Printed, and Stained here.</p>
+               <p>
+                  <hi>Note,</hi> That in caſe a ſtop be put to but One fourth part, it will hinder the conſumption of above <hi>Two Millions</hi> of Manufactures; to ſupply which, 'twill give an Employment to great numbers of Manufacturers in many places where the Silk and Worſted Trades are ſettled, and be a means to keep up the Prices of Wool and Proviſions, which elſe muſt in a ſhort time ſink very low.</p>
+               <p>
+                  <hi>Query,</hi> Whether it may not be thought reaſonable that the <hi>Eaſt-India</hi> Companies, and other Traders, give an Account what Mo<g ref="char:EOLhyphen"/>ney and Bullion they have taken in at <hi>Cairz.</hi> and other Foreign Parts, and carried to the <hi>Indies</hi> in two years laſt paſt?</p>
+               <p>
+                  <hi>Query,</hi> Whether it be not as reaſonable t
+o ſend our Money to the <hi>Eaſt Countries</hi> to buy up Corn, (which is there very cheap) to ſeed us, as 'tis to ſend it to the <hi>Eaſt-Indies</hi> for Garments to cloth us.</p>
+               <p>
+                  <hi>Query,</hi> Whether it be not as neceſſary to reſtrain the Trade to the <hi>Eaſt-Indies,</hi> as 'twas to put a ſtop to the <hi>Iriſh,</hi> ſince the ſame and greater Reaſon is given for the doing thereof?</p>
+               <p>
+                  <hi>Query,</hi> Whether the <hi>Eaſt-India</hi> Traders (it not reſtrained) may not in a ſhort time bring over vaſt quantities of Stuffs for Mens wear, ſince they have dately imported <hi>fine Cotten Druggers</hi> very fit for that purpoſe?</p>
+               <p>
+                  <hi>Query,</hi> Whether the ſending above <hi>Two Millions</hi> to imploy the <hi>Indians</hi> to make our wearing Apparel, while our own Poor ſtarve for want of Imployment, be not a Conſideration of great wright, and deſerve ſome ſpeedy Remedy.</p>
+               <p>
+                  <hi>Query,</hi> Whether the <hi>Linnen Drapers</hi> can't as well turn their hands now to the Selling of ſuch Manufactures as may be profitable to the <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, as they fi<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erly turn'd them the other way by <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing Maſtic inſtead of <hi>Cambrick</hi> and <hi>Lew<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> and from <hi>Green Says</hi> to <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ces.</p>
+            </div>
+            <div type="list_of_ships">
+               <p>
+                  <table>
+                     <head>A LIST of Ships Abroad in the Honourable <hi>Eaſt-India</hi> Company's Service.</head>
+                     <row>
+                        <cell role="label">Sailed hence.</cell>
+                        <cell role="label"> </cell>
+                        <cell role="label">Ships Names.</cell>
+                        <cell role="label">Command. Names</cell>
+                        <cell role="label">Tonn</cell>
+                        <cell role="label">Men.</cell>
+                        <cell role="label">Guns.</cell>
+                        <cell role="label">Cargoes out.</cell>
+                        <cell role="label"> </cell>
+                        <cell role="label"> </cell>
+                        <cell role="label">Places Conſign'd.</cell>
+                        <cell role="label">Arrived here.</cell>
+                     </row>
+                     <row>
+                        <cell>1695. Janu.</cell>
+                        <cell>20</cell>
+                        <cell>Dorrill</cell>
+                        <cell>Samuel Hide</cell>
+                        <cell>300</cell>
+                        <cell>60</cell>
+                        <cell>28</cell>
+                        <cell>l. 37336</cell>
+                        <cell>14</cell>
+                        <cell>6</cell>
+                        <cell>Bombay</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1696. May</cell>
+                        <cell>19</cell>
+                        <cell>Chamber Frig.</cell>
+                        <cell>Thomas South</cell>
+                        <cell>350</cell>
+                        <cell>70</cell>
+                        <cell>30</cell>
+                        <cell>55520</cell>
+                        <cell>19</cell>
+                        <cell>6</cell>
+                        <cell>Coaſt and Bay</cell>
+                        <cell>11 June 99.</cell>
+                     </row>
+                     <row>
+                        <cell>1697. May</cell>
+                        <cell>24</cell>
+                        <cell>Taviſtock</cell>
+                        <cell>Samuel Jones</cell>
+                        <cell>750</cell>
+                        <cell>150</cell>
+                        <cell>40</cell>
+                        <cell>53571</cell>
+                        <cell>15</cell>
+                        <cell>4</cell>
+                        <cell>Fort St. George</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>Octob.</cell>
+                        <cell>12</cell>
+                        <cell>Naſſaw</cell>
+                        <cell>James Minty</cell>
+                        <cell>400</cell>
+                        <cell>90</cell>
+                        <cell>30</cell>
+                        <cell>42470</cell>
+                        <cell>1</cell>
+                        <cell>6</cell>
+                        <cell>China</cell>
+                        <cell>6 Decemb</cell>
+                     </row>
+                     <row>
+                        <cell>Nov.</cell>
+                        <cell>22</cell>
+                        <cell>Trumball Gally</cell>
+                        <cell>Henry Duffeild</cell>
+                        <cell>250</cell>
+                        <cell>56</cell>
+                        <cell>16</cell>
+                        <cell>22269</cell>
+                        <cell>11</cell>
+                        <cell>10</cell>
+                        <cell>ditto</cell>
+                        <cell>4 Septemb.</cell>
+                     </row>
+                     <row>
+                        <cell>Febr.</cell>
+                        <cell>10</cell>
+                        <cell>Martha</cell>
+                        <cell>Thomas Raynes</cell>
+                        <cell>625</cell>
+                        <cell>125</cell>
+                        <cell>40</cell>
+                        <cell>81133</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>Coaſt and Bay</cell>
+                        <cell>2 Septemb.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Anna</cell>
+                        <cell>William Bridges</cell>
+                        <cell>350</cell>
+                        <cell>70</cell>
+                        <cell>26</cell>
+                        <cell>61055</cell>
+                        <cell>6</cell>
+                        <cell> </cell>
+                        <cell>Bay</cell>
+                        <cell>31 Auguſt.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Fame</cell>
+                        <cell>Robert Betton</cell>
+                        <cell>420</cell>
+                        <cell>84</cell>
+                        <cell>36</cell>
+                        <cell>31652</cell>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                        <cell>Coaſt and Bay</cell>
+                        <cell>4 June 99.</cell>
+                     </row>
+                     <row>
+                        <cell>Mar.</cell>
+                        <cell>5</cell>
+                        <cell>Thorndon</cell>
+                        <cell>William Petre</cell>
+                        <cell>500</cell>
+                        <cell>100</cell>
+                        <cell>34</cell>
+                        <cell>24525</cell>
+                        <cell>6</cell>
+                        <cell>3</cell>
+                        <cell>ditto</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1698. April</cell>
+                        <cell>8</cell>
+                        <cell>Thomas</cell>
+                        <cell>Rand Pye</cell>
+                        <cell>380</cell>
+                        <cell>76</cell>
+                        <cell>30</cell>
+                        <cell>43809</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                        <cell>Surrat <hi>and</hi> Bombay</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>May</cell>
+                        <cell>15</cell>
+                        <cell>Ruſſel Frigate</cell>
+                        <cell>Will. Blundell</cell>
+                        <cell>350</cell>
+                        <cell>70</cell>
+                        <cell>30</cell>
+                        <cell>30739</cell>
+                        <cell>2</cell>
+                        <cell>1</cell>
+                        <cell>Bombay</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>May</cell>
+                        <cell>10</cell>
+                        <cell>Mary</cell>
+                        <cell>Henry Trenwith</cell>
+                        <cell>410</cell>
+                        <cell>80</cell>
+                        <cell>32</cell>
+                        <cell>44772</cell>
+                        <cell>5</cell>
+                        <cell> </cell>
+                        <cell>Bombay</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Sept.</cell>
+                        <cell>12</cell>
+                        <cell>Northumb. Frig.</cell>
+                        <cell>Robert Agar</cell>
+                        <cell>250</cell>
+                        <cell>50</cell>
+                        <cell>24</cell>
+                        <cell>32799</cell>
+                        <cell>18</cell>
+                        <cell>6</cell>
+                        <cell>Perſia</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Nov.</cell>
+                        <cell>29</cell>
+                        <cell>Fleet Frigate</cell>
+                        <cell>John Merry</cell>
+                        <cell>280</cell>
+                        <cell>56</cell>
+                        <cell>22</cell>
+                        <cell>37554</cell>
+                        <cell>3</cell>
+                        <cell>7</cell>
+                        <cell>Bombay</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Joſiah</cell>
+                        <cell>Richard Stutton</cell>
+                        <cell>500</cell>
+                        <cell>100</cell>
+                        <cell>36</cell>
+                        <cell>61912</cell>
+                        <cell>18</cell>
+                        <cell>4</cell>
+                        <cell>China</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Benjamin</cell>
+                        <cell>John Browne</cell>
+                        <cell>450</cell>
+                        <cell>90</cell>
+                        <cell>30</cell>
+                        <cell>50856</cell>
+                        <cell>13</cell>
+                        <cell>11</cell>
+                        <cell>Fort St. George</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Dec.</cell>
+                        <cell>3</cell>
+                        <cell>Sidney</cell>
+                        <cell>Caleb Grantham</cell>
+                        <cell>500</cell>
+                        <cell>100</cell>
+                        <cell>36</cell>
+                        <cell>91398</cell>
+                        <cell>11</cell>
+                        <cell>9</cell>
+                        <cell>Bay</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Gracedieu</cell>
+                        <cell>James Mervill</cell>
+                        <cell>320</cell>
+                        <cell>64</cell>
+                        <cell>24</cell>
+                        <cell>34385</cell>
+                        <cell>11</cell>
+                        <cell>5</cell>
+                        <cell>ditto</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Janu.</cell>
+                        <cell>14</cell>
+                        <cell>Armenian Merc</cell>
+                        <cell>John Carſwell</cell>
+                        <cell>220</cell>
+                        <cell>40</cell>
+                        <cell>16</cell>
+                        <cell>7925</cell>
+                        <cell>12</cell>
+                        <cell>4</cell>
+                        <cell>Bencoln &amp; S. Helena Places</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Mar.</cell>
+                        <cell>2</cell>
+                        <cell>Sceptre</cell>
+                        <cell>John Thenney</cell>
+                        <cell>300</cell>
+                        <cell>60</cell>
+                        <cell>24</cell>
+                        <cell>32869</cell>
+                        <cell>4</cell>
+                        <cell>6</cell>
+                        <cell>Fort</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Eaſt-Ind. Merch.</cell>
+                        <cell>William Earle</cell>
+                        <cell>450</cell>
+                        <cell>90</cell>
+                        <cell>30</cell>
+                        <cell>36299</cell>
+                        <cell>16</cell>
+                        <cell>5</cell>
+                        <cell>Bay</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Janu. </cell>
+                        <cell>14</cell>
+                        <cell>Neptune</cell>
+                        <cell>John Leſhly</cell>
+                        <cell>275</cell>
+                        <cell>55</cell>
+                        <cell>20</cell>
+                        <cell>29944</cell>
+                        <cell>14</cell>
+                        <cell>5</cell>
+                        <cell>Fort</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1699. April</cell>
+                        <cell>1</cell>
+                        <cell>Bedford</cell>
+                        <cell>John Hudſon</cell>
+                        <cell>750</cell>
+                        <cell>150</cell>
+                        <cell>46</cell>
+                        <cell>82764</cell>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                        <cell>Surrat</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Mar.</cell>
+                        <cell>28</cell>
+                        <cell>Hampſhire</cell>
+                        <cell>Francis Fiſher</cell>
+                        <cell>400</cell>
+                        <cell>80</cell>
+                        <cell>26</cell>
+                        <cell>41697</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>ditto</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Ruby</cell>
+                        <cell>John Barber</cell>
+                        <cell>450</cell>
+                        <cell>90</cell>
+                        <cell>32</cell>
+                        <cell>40653</cell>
+                        <cell>7</cell>
+                        <cell>1</cell>
+                        <cell>Perſia <hi>and</hi> Bombay</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Frederick</cell>
+                        <cell>John Wynne</cell>
+                        <cell>350</cell>
+                        <cell>70</cell>
+                        <cell>30</cell>
+                        <cell>42351</cell>
+                        <cell>6</cell>
+                        <cell>5</cell>
+                        <cell>Bombay</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Ships 26</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>1114933</cell>
+                        <cell>19</cell>
+                        <cell>7</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Note,</hi> Since the making this Liſt, 8 of the Ships are Arriv'd here, and 8 more ſent out, whoſe Cargoos we have not; but think it would be Acceptable, if the Company would make them as Publick as theſe are.</p>
+            </div>
+            <div type="list_of_ships">
+               <list>
+                  <head>A LIST of Ten Ships Arrived from <hi>Eaſt-India</hi> and <hi>China,</hi> ſince the 20th. of <hi>May,</hi> 1699</head>
+                  <item>June 4 O Fame 420 Tonns from <hi>Fort St. George</hi>
+                  </item>
+                  <item>June 9 P Reſolution 420 Tonns from <hi>Coaſt and Bay</hi>
+                  </item>
+                  <item>June 11 O Chambers Frig. 350 Tonns from <hi>Bombay</hi>
+                  </item>
+                  <item>June 15 O Trumball Gally 250 Tonns from <hi>Amoy, China</hi>
+                  </item>
+                  <item>July 24 O Taviſtock 750 Tonns from Bay of <hi>Bengal</hi>
+                  </item>
+                  <item>July 30 P Tuſcan Gally 750 Tonns from <hi>China</hi>
+                  </item>
+                  <item>Auguſt 29 P Duke &amp; Gloceſt. 750 Tonns from <hi>Bay of Bengal</hi>
+                  </item>
+                  <item>Auguſt 31 O Anna 350 Tonns from ditto</item>
+                  <item>Septemb. 2 O Martha 625 Tonns from <hi>Fort St. George</hi>
+                  </item>
+                  <item>Septemb. 4 O Naſſaw 400 Tonns from <hi>China</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Note,</hi> That theſe Ten Ships brought over above Five hundred Thouſand Pieces of <hi>Wrought Silks, Stuffs,</hi> and <hi>Calico's,</hi> &amp;c. Va<g ref="char:EOLhyphen"/>lued at near One Million <hi>Sterling,</hi> (a great Part of which are ſuch Goods as are Propoſed to be Prohibited,) which has put a great Damp to the <hi>Engliſh</hi> Manufactures to which they are Oppoſite.</p>
+            </div>
+            <div type="account_of_manufactures">
+               <head>An Account of the <hi>Woollen Manufactures</hi> made in One Year, (with the Value thereof,) taken from an Account which was ſome Years ſince delivered to the <hi>Houſe of Commons</hi> by the Farmers of the <hi>Aulnage.</hi>
+               </head>
+               <head type="sub">From 25 <hi>December</hi> 1687, to 25 <hi>December</hi> 1688.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">Value per Piece.</cell>
+                        <cell role="label">Total Pie<g ref="char:EOLhyphen"/>ces made.</cell>
+                        <cell role="label">Exported.</cell>
+                        <cell role="label">Spent at Home.</cell>
+                        <cell role="label">Total Value.</cell>
+                     </row>
+                     <row>
+                        <cell>Serges, Perpetuano's, Says, <hi>amp;c.</hi>-</cell>
+                        <cell>2 l.</cell>
+                        <cell>682,200</cell>
+                        <cell>390,000</cell>
+                        <cell>292,000</cell>
+                        <cell>1,364,400 l</cell>
+                     </row>
+                     <row>
+                        <cell>Kerſeys, Single Dozen Penniſtons, Single Bays, <hi>&amp;c.</hi>-</cell>
+                        <cell>3</cell>
+                        <cell>266,686</cell>
+                        <cell>88,210</cell>
+                        <cell>178,476</cell>
+                        <cell>800,058</cell>
+                     </row>
+                     <row>
+                        <cell>Spaniſh and Short Cloths, Double Dozens, <hi>&amp;c.</hi>-</cell>
+                        <cell>10</cell>
+                        <cell>111,150</cell>
+                        <cell>21,392</cell>
+                        <cell>89,758</cell>
+                        <cell>1,111,500</cell>
+                     </row>
+                     <row>
+                        <cell>Long Cloths-</cell>
+                        <cell>10</cell>
+                        <cell>48,260</cell>
+                        <cell>29,943</cell>
+                        <cell>18,317</cell>
+                        <cell>482,600</cell>
+                     </row>
+                     <row>
+                        <cell>Minnikin Bays-</cell>
+                        <cell>5</cell>
+                        <cell>9,600</cell>
+                        <cell>5,660</cell>
+                        <cell>3,990</cell>
+                        <cell>48,000</cell>
+                     </row>
+                     <row>
+                        <cell>Colcheſter Bays, and Double Bays, <hi>&amp;c.</hi>-</cell>
+                        <cell>4</cell>
+                        <cell>86000</cell>
+                        <cell>35,565</cell>
+                        <cell>50,435</cell>
+                        <cell>344,000</cell>
+                     </row>
+                     <row>
+                        <cell>Norwich Stuffs, <hi>&amp;c.</hi> by Computation-</cell>
+                        <cell>2</cell>
+                        <cell>350000</cell>
+                        <cell>100,000</cell>
+                        <cell>250,000</cell>
+                        <cell>700,000</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                        <cell>-</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>1,238,836</cell>
+                        <cell>670,770</cell>
+                        <cell>658,126</cell>
+                        <cell>4,850,558</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>NOTE</hi>: That all the <hi>Woollen Manufactures</hi> made in <hi>England</hi> in one Years time, comes to 4,850,558 l. and the <hi>Eaſt India</hi> Goods comes to near that Sum, according to their preſent Trade.</p>
+            </div>
+            <div type="account_of_silver_exports">
+               <head>An Account of <hi>Foreign Silver</hi> and <hi>Bulloin</hi> Exported from the Port of <hi>London,</hi> from the 15th. of <hi>October</hi> 1697, to the 2d. of <hi>January</hi> 1699, as appears by an Account delivered this Seſ<g ref="char:EOLhyphen"/>ſions to the <hi>Houſe of Commons.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">Ounces</cell>
+                        <cell role="label">Drct</cell>
+                     </row>
+                     <row>
+                        <cell>Pieces of <hi>Eight,</hi> and other</cell>
+                        <cell>By the Old Company-</cell>
+                        <cell>2,628,814-</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Foreign Coin,</hi> Exported to</cell>
+                        <cell>By the New Company-</cell>
+                        <cell>1,620,607-</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>the <hi>Eaſt-Indies</hi>-</cell>
+                        <cell>By Particular Perſons-</cell>
+                        <cell>747,523-</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>-</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>4,996,945</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>-</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Molten Silver <hi>in Bars,</hi>
+                        </cell>
+                        <cell>By the Old Company-</cell>
+                        <cell>708,539-</cell>
+                        <cell>17</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ingots,</hi> &amp;c. <hi>Exported to</hi>
+                        </cell>
+                        <cell>By the New Company-</cell>
+                        <cell>200,421-</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>India-</cell>
+                        <cell>By Particular Perſons-</cell>
+                        <cell>18,641-</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>-</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>927,610-</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>-</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Total 5,924,556-</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>-</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Note,</hi> That Five Millions, Nine hundred twenty four thouſand, Five hundred and fifty ſix Ounces, at 5s. and 2 d. <hi>per</hi> Ounce, comes to above <hi>One Million</hi> and Five hundred thouſand Pounds <hi>Sterling,</hi> which have been ſent from the Port of <hi>London,</hi> beſides what they have taken in at <hi>Cadiz,</hi> &amp;c.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT, 26 <hi>January,</hi> 1699.</head>
+            <p>THree Days ago we received Advice, That the <hi>Riſing Eagle,</hi> a Ship of 240 Tonns, in Private Trade, is arrived from <hi>China,</hi> ha<g ref="char:EOLhyphen"/>ving Completed her whole Voyage in leſs than Twenty three Months, and carried out about Twenty thouſand Pounds in <hi>Bul<g ref="char:EOLhyphen"/>leigne,</hi> and have brought above Eleven thouſand Pieces of Wrought Silks, (and not One Pound of Raw Silk,) valu'd about Forty thouſand Pounds; which has put a great Damp upon the few <hi>Silk Weavers</hi> that are left, and will, no doubt, cauſe many to be turned out of Work.</p>
+            <p>There's likewiſe Advice in Yeſterday's <hi>London Gazette,</hi> That a Ship belonging to the <hi>French Eaſt-India</hi> Company is lately arrived at <hi>Diepe,</hi> from <hi>Surrat</hi>: 'Tis ſaid her Cargo is worth near Two hundred thouſand Crowns, and that a great part of it conſiſts in Gold and Silver, which ſhe brought from the Iſland of <hi>Bourbon,</hi> to which Place ſhe carried a new Governour, and a Recruit of Five hundred Men.</p>
+            <p>
+               <hi>Note</hi> the Difference between the Two Ships Cargo's: Ours brings over <hi>Wrought Silks,</hi> to the Deſtruction of our own Manufa<g ref="char:EOLhyphen"/>ctures, and the <hi>French</hi> brings <hi>Gold</hi> and <hi>Silver,</hi> to Support their Government and Trade.</p>
+            <p>
+               <hi>February</hi> 3. There is Advice, That the <hi>Thomas</hi> and the <hi>Mary</hi> are Arrived from <hi>Bombay</hi>; and by their <hi>Cargoes</hi> in Print, there is above 93000 Pieces of Manufactured <hi>Silks, Stuffs,</hi> and <hi>Calico's,</hi> (beſides what came in Private Trade) and not One Pound of <hi>Raw Silk</hi> to Imploy the <hi>Engliſh Manufacturers.</hi>
+            </p>
+            <p>
+               <hi>February</hi> 
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. This Day there's Advice, That the <hi>Thorndon,</hi> a Ship of 500 Tonns, from the <hi>Bay of Bengal,</hi> is Arrived; but her <hi>Cargo</hi> is not yet in Print. 'Tis ſaid ſhe brings great Quantities of <hi>Wrought Goods,</hi> and <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Raw Silk.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
